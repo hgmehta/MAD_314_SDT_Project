@@ -1,4 +1,4 @@
-[![N|Solid](https://github.com/hgmehta/MAD_314_SDT_Project/blob/master/Images/Logo.PNG)]()
+[![N|Solid](https://github.com/hgmehta/MAD_314_SDT_Project/blob/master/Images/Logo-Transparent.PNG)](https://sway.office.com/qCi2hqFino5VWxC1?ref=Link)
 
 ChillFlix is a platform where user can stream unlimited movies, web series and many more verious contents seamminglessly.
 
